@@ -1,4 +1,4 @@
-## Stat133 Final Project Fall 2016
+## Concepts in Computing with Data(Stat133) Final Project Fall 2016
 
 ####Authors: Jerome Kim, Zimei Yuan, Jiyoon Jeong, Jin Kweon
 
